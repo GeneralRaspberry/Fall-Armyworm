@@ -6,3 +6,4 @@ I'm Dr. Thomas Taylor, a scientific consultant and modeller with a PhD in epidem
 
 I help organisations understand, simulate, and solve complex biological problems - 
 with a particular focus on infectious diseases, pest management and environmental systems. 
+
