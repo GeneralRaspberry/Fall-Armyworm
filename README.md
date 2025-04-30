@@ -7,3 +7,6 @@ I help organisations understand, simulate, and solve complex biological problems
 with a particular focus on infectious diseases, pest management and environmental systems. 
 
 
+Project #1: Modelling Fall Armyworm in Sub Saharan Africa
+
+*A Freelance consultancy project using epidemiological modelling to simulate pest impact on maize yields in Sub Saharan Africa. This simulation helps farmers and policy makers evaluate the cost-effectiveness of pesticide control strategies.*
