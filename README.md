@@ -1,6 +1,6 @@
 # Fall-Armyworm
-/b/Science-Based consulting for infectious diseases and sustainability.
-Providing cutting-edge scientific insights and strategic consulting for the life sciences industry./b/
+**Science-Based consulting for infectious diseases and sustainability.
+Providing cutting-edge scientific insights and strategic consulting for the life sciences industry.**
 
 I'm Dr. Thomas Taylor, a scientific consultant and modeller with a PhD in epidemiological modelling.
 
